@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:holla@themossiah.sg
 TEL;type=WORK;type=VOICE:+65 9823 8663
 item1.ADR;type=WORK;type=pref:;;WCEGA Tower\n2 Bukit Batok Cresent\, 02-70;;;658065;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:themossiah.sg
+item2.URL;type=pref:https://themossiah.sg
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
